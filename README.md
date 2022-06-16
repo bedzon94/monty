@@ -22,9 +22,8 @@ Compile with:
 ```
 $ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty
 ```
-
-
-## Files
+FIles | Description
+----------- | -----------
 [main.c](./main.c) | Entry point of the program
 [monty.h](./monty.h) | Main header file
 [lists.h](./lists.h) | Header file for the lists functions
